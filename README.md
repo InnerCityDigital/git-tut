@@ -1,2 +1,2 @@
 # git-tut
-Git tutorials
+Git tutorials UPDATED
